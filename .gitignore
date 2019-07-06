@@ -1,5 +1,7 @@
 # Mac OS X files
 .DS_Store
+._.DS_Store
+**/.DS_Store
 
 # Binaries for programs and plugins
 *.exe
@@ -15,3 +17,6 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+# Goland
+.idea/
