@@ -20,3 +20,4 @@
 
 # Goland
 .idea/
+vendor/
